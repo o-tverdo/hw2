@@ -86,7 +86,7 @@ public class Main {
         System.out.println("Всего работников в компании — " + allWorkers + " человек");
         allWorkers = allWorkers + 94;
         allTimeOfWork = allWorkers * 8;
-        System.out.println("Если в компании работает " + allWorkers + " человек, то всего " + allTimeOfWork + " часов работы может быть поделено между сотрудниками");
+        System.out.println("Если в компании работает " + allWorkers + " человек, то всего " + allTimeOfWork + " часа работы может быть поделено между сотрудниками");
 
     }
 }
